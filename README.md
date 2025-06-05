@@ -99,6 +99,8 @@ Example:
 js
 Copy
 Edit
+<pre>
 if (req.url === "/about") {
   res.end("<h1>About Page 👤</h1>");
 }
+</pre>
